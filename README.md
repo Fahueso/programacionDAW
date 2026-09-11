@@ -1,10 +1,10 @@
-# Módulo de Programación — 1º DAM
+# Módulo de Programación — 1º DAW
 
 **IES Camp de Morvedre · CFGS Desarrollo de Aplicaciones Multiplataforma**
 
-Repositorio del material didáctico del módulo de **Programación** de **1º de DAM**. El sitio web con el contenido publicado está disponible en:
+Fork del repositorio del profesor Jose Manuel Abad con material didáctico del módulo de **Programación** de **1º de DAM**. El sitio web con el contenido publicado está disponible en:
 
-🌐 **<https://jmabadlopez.github.io/programacion/>**
+🌐 **<https://fahueso.github.io/programacionDAW/>**
 
 ---
 
@@ -23,6 +23,8 @@ El módulo cubre el ciclo completo del desarrollo en Java: desde los fundamentos
 | Unidad | Título |
 | :---: | :--- |
 | UD1 | Introducción a la programación. Lenguaje Java |
+
+<!--
 | UD2 | Programación estructurada. Estructuras de control y repetición |
 | UD3 | Funciones y procedimientos |
 | UD4 | Estructuras de datos dinámicas |
@@ -31,6 +33,7 @@ El módulo cubre el ciclo completo del desarrollo en Java: desde los fundamentos
 | UD7 | Ficheros y Excepciones |
 | UD8 | Acceso a Bases de Datos con JDBC |
 | UD9 | Interfaces Gráficas con JavaFX |
+-->
 
 ### Boletines de Ejercicios
 
@@ -62,7 +65,7 @@ mkdocs gh-deploy    # publicar en GitHub Pages
 
 ## Autoría
 
-Este material ha sido elaborado y es mantenido por **José Manuel Abad López** — docente del IES Camp de Morvedre.
+Este material ha sido elaborado y es mantenido por **José Manuel Abad López** — docente del IES Camp de Morvedre. Este fork contiene modificaciones de **Francisco Alfonso Hueso Pastor**
 
 - 📧 <jm.abadlopez@edu.gva.es>
 - 🌐 <https://jmabadlopez.github.io>
