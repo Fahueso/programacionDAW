@@ -5,6 +5,25 @@
 
 ---
 
+!!! info "🎯 Criterios de Evaluación (RA1)"
+    Este laboratorio práctico es fundamental, ya que cubre la mayoría de los criterios del Resultado de Aprendizaje:
+
+    **Criterios Principales (Evaluación Directa):**
+    - **a)** Identificación de los bloques de estructura de un programa.
+    - **b)** Creación de proyectos de desarrollo de aplicaciones.
+    - **c)** Uso de entornos integrados de desarrollo (IDE IntelliJ).
+    - **d)** Identificación y uso de tipos de variables y su utilidad.
+    - **e)** Modificación de código para crear y utilizar variables.
+    - **f)** Creación y uso de constantes y literales.
+    - **g)** Clasificación y uso de operadores en expresiones.
+    - **h)** Comprobación de conversiones de tipos (explícitas e implícitas).
+
+    **Criterios Secundarios:**
+    - **i)** Introducción de comentarios en el código (se recomienda aplicarlo en la corrección de errores).
+
+
+---
+
 ## 1. Primeros pasos
 
 **Objetivo:** familiarizarse con el entorno y escribir los primeros programas.

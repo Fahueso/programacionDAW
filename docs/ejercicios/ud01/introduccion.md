@@ -2,8 +2,25 @@
 
 !!! info "Sobre estos ejercicios"
     Los ejercicios de esta sección son **conceptuales**: trabajan el razonamiento y la comprensión antes de escribir código. No necesitas el ordenador para resolverlos (aunque puedes usarlo para comprobar).
+    Criterios e
 
 ---
+
+!!! info "Criterios de Evaluación (RA1)"
+    En este apartado se trabajan los siguientes puntos del Resultado de Aprendizaje:
+
+    **Criterios Principales:**
+    - **d)** Identificación de los diferentes tipos de variables y su utilidad.
+    - **f)** Creación y uso de constantes y literales.
+    - **g)** Clasificación y uso de operadores en expresiones.
+
+    **Criterios Secundarios (Conceptuales):**
+    - **a)** Reconocimiento de los bloques que componen la estructura de un programa.
+    - **e)** Lógica de modificación de código para el uso de variables.
+    - **h)** Funcionamiento de las conversiones de tipos (explícitas e implícitas).
+
+
+---    
 
 ## 1. Programas y algoritmos
 

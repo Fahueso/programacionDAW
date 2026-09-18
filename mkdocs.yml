@@ -18,10 +18,10 @@ nav:
   #     - Menús y layouts: unidades/ud09/menus.md
   #     - Integración de datos con BBDD: unidades/ud09/integracion_datos.md
   #     - Reto Final: unidades/ud09/reto_final.md
-  # - Ejercicios:
-  #   - UD1 - Introducción a la programación. Lenguaje Java:
-  #     - Ejercicios de introducción: ejercicios/ud01/introduccion.md
-  #     - Ejercicios del lenguaje Java: ejercicios/ud01/lenguaje_java.md
+    - Ejercicios:
+      - UD1 - Introducción a la programación. Lenguaje Java:
+        - Ejercicios de introducción: ejercicios/ud01/introduccion.md
+        - Ejercicios del lenguaje Java: ejercicios/ud01/lenguaje_java.md
   #   - UD2 - Programación estructurada. Estructuras de control y repetición:
   #     - Ejercicios de programación estructurada: ejercicios/ud02/ejercicios_ud02.md
   #     - Ejercicios de condicionales y bucles: ejercicios/ud02/ejercicios_ud02_bucles.md
