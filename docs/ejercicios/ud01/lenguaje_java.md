@@ -9,6 +9,7 @@
     Este laboratorio práctico es fundamental, ya que cubre la mayoría de los criterios del Resultado de Aprendizaje:
 
     **Criterios Principales (Evaluación Directa):**
+
     - **a)** Identificación de los bloques de estructura de un programa.
     - **b)** Creación de proyectos de desarrollo de aplicaciones.
     - **c)** Uso de entornos integrados de desarrollo (IDE IntelliJ).
@@ -19,6 +20,7 @@
     - **h)** Comprobación de conversiones de tipos (explícitas e implícitas).
 
     **Criterios Secundarios:**
+    
     - **i)** Introducción de comentarios en el código (se recomienda aplicarlo en la corrección de errores).
 
 
