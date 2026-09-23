@@ -4,7 +4,7 @@ site_url: https://fahueso.github.io/programacionDAW/
 nav:
   - Unidades:
     - UD1 - Introducción a la programación. Lenguaje Java: unidades/ud01.md
-  #   - UD2 - Programación estructurada. Estructuras de control y repetición: unidades/ud02.md
+    - UD2 - Programación estructurada. Estructuras de control y repetición: unidades/ud02.md
   #   - UD3 - Funciones y procedimientos: unidades/ud03.md
   #   - UD4 - Estructuras de datos dinámicas: unidades/ud04.md
   #   - UD5 - Programación Orientada a Objetos (POO): unidades/ud05.md

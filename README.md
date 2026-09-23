@@ -23,9 +23,10 @@ El módulo cubre el ciclo completo del desarrollo en Java: desde los fundamentos
 | Unidad | Título |
 | :---: | :--- |
 | UD1 | Introducción a la programación. Lenguaje Java |
+| UD2 | Programación estructurada. Estructuras de control y repetición |
 
 <!--
-| UD2 | Programación estructurada. Estructuras de control y repetición |
+
 | UD3 | Funciones y procedimientos |
 | UD4 | Estructuras de datos dinámicas |
 | UD5 | Programación Orientada a Objetos (POO) |
