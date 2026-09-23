@@ -23,8 +23,9 @@ El módulo tiene como objetivo que el alumnado adquiera los fundamentos del desa
 | Unidad | Título |
 | :---: | :--- |
 | UD1 | [Introducción a la programación. Lenguaje Java](unidades/ud01.md) |
-<!-- | UD2 | [Programación estructurada. Estructuras de control y repetición](unidades/ud02.md) |
-| UD3 | [Funciones y procedimientos](unidades/ud03.md) |
+| UD2 | [Programación estructurada. Estructuras de control y repetición](unidades/ud02.md) |
+
+<!-- | UD3 | [Funciones y procedimientos](unidades/ud03.md) |
 | UD4 | [Estructuras de datos dinámicas](unidades/ud04.md) |
 | UD5 | [Programación Orientada a Objetos (POO)](unidades/ud05.md) |
 | UD6 | [POO Avanzada: Herencia, Interfaces y Polimorfismo](unidades/ud06.md) |
