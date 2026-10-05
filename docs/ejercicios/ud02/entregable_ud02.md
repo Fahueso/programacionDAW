@@ -1,14 +1,34 @@
+
 # Actividades Entregables — Unidad 2: Programación Estructurada
 
-!!! info "Resultados de Aprendizaje"
-    Estas actividades están diseñadas para afianzar los siguientes RAs del módulo de **Programación**:
+!!! info "Criterios de Evaluación (RA2, RA3, RA5)"
 
-    - **RA2, RA3, RA5 y RA6**
-        - Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje (`if-else`, `switch`, `for`, `while`, `do-while`).
-        - Desarrolla programas aplicando la programación estructurada e introduciendo el tratamiento de datos (arrays y matrices).
+**Criterios Principales (Evaluación Directa):**
 
-!!! abstract "Objetivo General"
-    Aplicar los conocimientos sobre variables, condicionales, bucles y arrays (vectores y matrices) para resolver problemas prácticos y estructurados.
+- **RA3. Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje.**
+    - **a)** Se ha escrito y probado código que haga uso de estructuras de selección.
+    - **b)** Se han utilizado estructuras de repetición.
+    - **c)** Se han reconocido las posibilidades de las sentencias de salto.
+    - **e)** Se han creado programas ejecutables utilizando diferentes estructuras de control.
+
+- **RA5. Realiza operaciones de entrada y salida de información, utilizando procedimientos específicos del lenguaje y librerías de clases.**
+    - **a)** Se ha utilizado la consola para realizar operaciones de entrada y salida de información.
+    - **b)** Se han aplicado formatos en la visualización de la información.
+
+- **RA2. Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la programación orientada a objetos.**
+    - **c)** Se han instanciado objetos a partir de clases predefinidas.
+    - **d)** Se han utilizado métodos y propiedades de los objetos.
+    - **e)** Se han escrito llamadas a métodos estáticos.
+    - **f)** Se han utilizado parámetros en la llamada a métodos.
+    - **g)** Se han incorporado y utilizado librerías de objetos.
+    - **h)** Se han utilizado constructores.
+    - **i)** Se ha utilizado el entorno integrado de desarrollo en la creación y compilación de programas simples.
+
+**Criterios Secundarios:**
+
+- **RA2.b)** Se han escrito programas simples.
+- **RA3.f)** Se han probado y depurado los programas.
+- **RA3.g)** Se ha comentado y documentado el código.
 
 ---
 
@@ -23,10 +43,11 @@ La **cooperativa "Casablanca"** necesita un programa para calcular el precio fin
 | B | 1 | −5 céntimos |
 | B | 2 | −10 céntimos |
 
-El programa solicita el precio inicial, el tipo y el tamaño para realizar el cálculo.
+El programa solicita el precio inicial, el tipo y el tamaño. Para finalizar, el programa debe calcular el precio final y **redondearlo a dos decimales** utilizando la clase `Math` para asegurar que el precio sea válido para el tique de venta.
 
 !!! tip "Pista"
-    Este problema es ideal para resolverlo con `if-else if` o con un `switch` anidado.
+    - Utiliza `if-else if` o un `switch` anidado para los ajustes.
+    - Para el redondeo, recuerda que existen métodos estáticos en la clase `Math` (como `Math.round()`).
 
 ??? example "Ejemplo de salida esperada"
     ```
@@ -40,9 +61,7 @@ El programa solicita el precio inicial, el tipo y el tamaño para realizar el c�
     ```
 
 ### Entrega Actividad 1
-
-Genera un fichero Java con el nombre `ud2_actividad1_[tu_nombre].java`.  
-Ejemplo: `ud2_actividad1_jose_abad.java`.
+Genera un fichero Java con el nombre `ud2_actividad1_[tu_nombre].java`.
 
 ---
 
@@ -75,9 +94,7 @@ El programa procesa **5 facturas** (introducidas por teclado) y muestra al final
     ```
 
 ### Entrega Actividad 2
-
-Genera un fichero Java con el nombre `ud2_actividad2_[tu_nombre].java`.  
-Ejemplo: `ud2_actividad2_jose_abad.java`.
+Genera un fichero Java con el nombre `ud2_actividad2_[tu_nombre].java`.
 
 ---
 
@@ -89,12 +106,13 @@ Ejemplo: `ud2_actividad2_jose_abad.java`.
 
 1. El cajero dispone de billetes de `500, 200, 100, 50, 20, 10 y 5` euros. Guárdalos en un **array de enteros**.
 2. El saldo inicial del usuario es `0`.
-3. Muestra un **menú repetitivo** con las opciones:
+3. Al iniciar el programa, el sistema debe generar un **Número de Operación aleatorio** (entre 1000 y 9999) utilizando la clase `Random`.
+4. Muestra un **menú repetitivo** con las opciones:
     - Consultar saldo actual.
     - Ingresar dinero.
     - Retirar dinero.
     - Salir.
-4. La opción **Retirar dinero** debe:
+5. La opción **Retirar dinero** debe:
     - Comprobar si hay saldo suficiente. Si no, mostrar un mensaje de error.
     - Calcular el **menor número posible de billetes** para entregar la cantidad.
     - Mostrar el desglose de billetes entregados.
@@ -102,6 +120,7 @@ Ejemplo: `ud2_actividad2_jose_abad.java`.
 ??? example "Ejemplo de ejecución"
     ```
     ---- MENÚ CAJERO AUTOMÁTICO ----
+    Operación Nº: 4582
     1. Consultar saldo
     2. Ingresar dinero
     3. Retirar dinero
@@ -109,23 +128,10 @@ Ejemplo: `ud2_actividad2_jose_abad.java`.
     Elige una opción: 2
     Cantidad a ingresar: 385
     Saldo actual: 385.0 €
-
-    ---- MENÚ CAJERO AUTOMÁTICO ----
-    Elige una opción: 3
-    Cantidad a retirar: 280
-    Desglose de billetes entregados:
-    - 1 billete de 200€
-    - 1 billete de 50€
-    - 1 billete de 20€
-    - 1 billete de 10€
-    Operación realizada con éxito.
-    Saldo actual: 105.0 €
     ```
 
 ### Entrega Actividad 3
-
-Genera un fichero Java con el nombre `ud2_actividad3_[tu_nombre].java`.  
-Ejemplo: `ud2_actividad3_jose_abad.java`.
+Genera un fichero Java con el nombre `ud2_actividad3_[tu_nombre].java`.
 
 ---
 
@@ -140,9 +146,9 @@ Ejemplo: `ud2_actividad3_jose_abad.java`.
 3. Muestra un **menú repetitivo** con las opciones:
     1. **Mostrar butacas:** dibuja el estado actual de la sala (`L` = libre, `O` = ocupada).
     2. **Comprar entrada:** pide fila y columna.
+        - **Validación:** El programa debe comprobar que la fila y la columna introducidas estén dentro del rango (0-4). Si el usuario introduce un valor incorrecto, el programa debe mostrar un error y **volver a pedir el dato** hasta que sea válido.
         - Si la butaca está libre (`L`): la marca como ocupada (`O`) y confirma la compra.
         - Si ya está ocupada (`O`): muestra "Butaca no disponible".
-        - Valida que la fila y columna sean correctas.
     3. **Mostrar estadísticas:** butacas libres, ocupadas y total recaudado (5€/entrada).
     4. **Salir.**
 
@@ -153,29 +159,13 @@ Ejemplo: `ud2_actividad3_jose_abad.java`.
     2. Comprar entrada
     3. Ver estadísticas
     4. Salir
-    Elige una opción: 1
-
-      Asientos:
-      0 1 2 3 4
-    0 L L L L L
-    1 L L L L L
-    2 L L L L L
-    3 L L L L L
-    4 L L L L L
-
     Elige una opción: 2
+    Introduce la fila (0-4): 8
+    Error: Fila fuera de rango. Inténtalo de nuevo.
     Introduce la fila (0-4): 2
     Introduce la columna (0-4): 3
     Compra realizada con éxito.
-
-    Elige una opción: 3
-    --- ESTADÍSTICAS ---
-    Butacas Ocupadas: 1
-    Butacas Libres: 24
-    Total Recaudado: 5.0 €
     ```
 
 ### Entrega Actividad 4
-
-Genera un fichero Java con el nombre `ud2_actividad4_[tu_nombre].java`.  
-Ejemplo: `ud2_actividad4_jose_abad.java`.
+Genera un fichero Java con el nombre `ud2_actividad4_[tu_nombre].java`.

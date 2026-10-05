@@ -1,9 +1,9 @@
-# Boletín de Ejercicios: Bucles y Condicionales
+# Boletín de Retos (Opcional)
 
 !!! info "Resultados de Aprendizaje"
     Este boletín trabaja los siguientes RAs del módulo de **Programación**:
 
-    - **RA2, RA3, RA5 y RA6** — Escribe y depura código analizando y utilizando las estructuras de control del lenguaje. Desarrolla programas aplicando la programación estructurada e introduciendo el tratamiento de datos.
+    - **RA2, RA3, RA5** — Escribe y depura código analizando y utilizando las estructuras de control del lenguaje. Desarrolla programas aplicando la programación estructurada e introduciendo el tratamiento de datos.
 
 ---
 

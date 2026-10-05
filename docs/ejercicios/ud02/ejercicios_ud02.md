@@ -3,7 +3,7 @@
 !!! info "Resultados de Aprendizaje"
     Estos ejercicios trabajan los siguientes RAs del módulo de **Programación**:
 
-    - **RA2, RA3, RA5 y RA6** — Escribe y depura código utilizando las estructuras de control del lenguaje. Desarrolla programas aplicando la programación estructurada e introduciendo el tratamiento de datos.
+    - **RA2, RA3, RA5** — Escribe y depura código utilizando las estructuras de control del lenguaje. Desarrolla programas aplicando la programación estructurada e introduciendo el tratamiento de datos.
 
 !!! tip "Instrucciones Generales"
     - Resuelve cada ejercicio en los formatos indicados: `p` (pseudocódigo), `df` (diagrama de flujo) o `j` (Java).

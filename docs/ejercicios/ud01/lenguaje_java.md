@@ -5,7 +5,7 @@
 
 ---
 
-!!! info "🎯 Criterios de Evaluación (RA1)"
+!!! info " Criterios de Evaluación (RA1)"
     Este laboratorio práctico es fundamental, ya que cubre la mayoría de los criterios del Resultado de Aprendizaje:
 
     **Criterios Principales (Evaluación Directa):**

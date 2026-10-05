@@ -23,10 +23,11 @@ nav:
         - Ejercicios de introducción: ejercicios/ud01/introduccion.md
         - Ejercicios del lenguaje Java: ejercicios/ud01/lenguaje_java.md
         - Ejercicios de ampliación: ejercicios/ud01/refuerzo_ampliacion.md
-  #   - UD2 - Programación estructurada. Estructuras de control y repetición:
-  #     - Ejercicios de programación estructurada: ejercicios/ud02/ejercicios_ud02.md
-  #     - Ejercicios de condicionales y bucles: ejercicios/ud02/ejercicios_ud02_bucles.md
-  #     - Actividades entregables: ejercicios/ud02/entregable_ud02.md
+      - UD2 - Programación estructurada. Estructuras de control y repetición:
+        - Ejercicios resueltos de clase: ejercicios/ud02/ejercicios_resueltos.md
+        - Ejercicios variados: ejercicios/ud02/ejercicios_ud02.md
+        - Retos: ejercicios/ud02/retos.md
+        - Actividades entregables: ejercicios/ud02/entregable_ud02.md
   #   - UD3 - Funciones y procedimientos:
   #     - Ejercicios de funciones y procedimientos: ejercicios/ud03/ejercicios_ud03_inicio.md
   #     - Actividad entregable. Gestor de Inventario de Ferreteria: ejercicios/ud03/ejercicio_ud03_ferreteria.md
