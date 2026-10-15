@@ -54,6 +54,7 @@ nav:
   - Recursos:
     - Guías:
       - Instalación IntelliJ: recursos/guia_intellij.md
+      - Guia básica Github: recursos/git.md
     # - Algorítmica:
     #   - Básica: recursos/algoritmica_basica.md
     #   - Bucles: recursos/bucles.html
