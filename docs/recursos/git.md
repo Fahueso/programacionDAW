@@ -75,7 +75,7 @@ En función de la versión de IntelliJ y del idioma podemos encontrarnos esta ot
 
 ![](assets/image-24.png)  
 
-Aqui buscaremos la opción "
+Aqui buscaremos la opción  de Hacer commit e insertar.
 
 # Parte 3: Poner mi repositorio en otro IntelliJ
 
