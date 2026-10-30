@@ -28,10 +28,11 @@ nav:
       - Ejercicios variados: ejercicios/ud02/ejercicios_ud02.md
       - Retos: ejercicios/ud02/retos.md
       - Actividades entregables: ejercicios/ud02/entregable_ud02.md
-  #   - UD3 - Métodos:
-  #     - Ejercicios de funciones y procedimientos: ejercicios/ud03/ejercicios_ud03_inicio.md
-  #     - Actividad entregable. Gestor de Inventario de Ferreteria: ejercicios/ud03/ejercicio_ud03_ferreteria.md
-  #     - Actividad (EXTRA). Analizador de textos: ejercicios/ud03/ejercicio_ud03_analizador_texto.md
+    - UD3 - Métodos:
+      - Ejercicios de funciones y procedimientos: ejercicios/ud03/ejercicios_ud03_inicio.md
+      - Detective de métodos: ejercicios/ud03/detective.md
+      - Actividad entregable. Gestor de Inventario de Ferreteria: ejercicios/ud03/ejercicio_ud03_ferreteria.md
+      - Actividad (EXTRA). Analizador de textos: ejercicios/ud03/ejercicio_ud03_analizador_texto.md
   #   - UD4 - Estructuras de datos dinámicas:
   #     - Ejercicios de listas: ejercicios/ud04/ejercicios_ud4_arraylist_inicio.md
   #     - Ejercicios avanzados de listas: ejercicios/ud04/ejercicios_ud4_listas_avanzado.md
